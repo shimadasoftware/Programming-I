@@ -1,2 +1,2 @@
 # Programming-I
-Exercises in the subject of programming I taken at the University.
+Project of an InstaFilm application in c ++ for the subject of programming I..
