@@ -1,0 +1,164 @@
+# depslib dependency file v1.0
+1539916862 source:/home/jf/Documentos/workspace/InstaFilm/main.cpp
+	<iostream>
+	"bienvenida.h"
+
+1539912987 /home/jf/Documentos/workspace/InstaFilm/bienvenida.h
+
+1540703232 source:/home/jf/Documentos/workspace/InstaFilm/ingreso.cpp
+	<iostream>
+	"ingreso.h"
+	"consola.h"
+	"amigos.h"
+	"peliculas.h"
+	"triqui.h"
+
+1540616494 /home/jf/Documentos/workspace/InstaFilm/ingreso.h
+	"datos.h"
+
+1540003844 source:/home/jf/Documentos/workspace/InstaFilm/registro.cpp
+	<iostream>
+	"registro.h"
+	"consola.h"
+	"amigos.h"
+	"datos.h"
+
+1539913146 /home/jf/Documentos/workspace/InstaFilm/registro.h
+
+1539913387 source:/home/jf/Documentos/workspace/InstaFilm/bienvenida.cpp
+	"bienvenida.h"
+	"consola.h"
+	"ingreso.h"
+	"registro.h"
+
+1540702418 source:/home/jf/Documentos/workspace/InstaFilm/datos.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"datos.h"
+
+1540702801 /home/jf/Documentos/workspace/InstaFilm/datos.h
+	<string>
+
+1541025225 /home/jf/Documentos/workspace/InstaFilm/amigos.h
+	"datos.h"
+
+1541025390 source:/home/jf/Documentos/workspace/InstaFilm/amigos.cpp
+	<iostream>
+	<string>
+	<ctime>
+	"amigos.h"
+	"consola.h"
+	"peliculas.h"
+
+1539271305 /home/jf/Documentos/workspace/InstaFilm//datos.h
+	<string>
+
+1539994025 source:/home/jf/Documentos/workspace/InstaFilm/consola.cpp
+	<string>
+	<consola.h>
+
+1540267402 /home/jf/Documentos/workspace/InstaFilm/consola.h
+	<iostream>
+
+1540267402 /home/jf/Documentos/workspace/InstaFilm//consola.h
+	<iostream>
+
+1541043378 /home/jf/Documentos/workspace/InstaFilm/peliculas.h
+	"datos.h"
+
+1541043411 source:/home/jf/Documentos/workspace/InstaFilm/peliculas.cpp
+	<iostream>
+	"peliculas.h"
+	"consola.h"
+
+1541044606 /home/jf/Documentos/workspace/InstaFilm/triqui.h
+	"datos.h"
+
+1540916259 source:/home/jf/Documentos/workspace/InstaFilm/triqui.cpp
+	<iostream>
+	<time.h>
+	"triqui.h"
+	"consola.h"
+	"amigos.h"
+
+1541025390 source:d:\documentos\juana\instafilm\amigos.cpp
+	<iostream>
+	<string>
+	<ctime>
+	"amigos.h"
+	"consola.h"
+	"peliculas.h"
+
+1541025225 d:\documentos\juana\instafilm\amigos.h
+	"datos.h"
+
+1540702801 d:\documentos\juana\instafilm\datos.h
+	<string>
+
+1540267402 d:\documentos\juana\instafilm\consola.h
+	<iostream>
+
+1541043378 d:\documentos\juana\instafilm\peliculas.h
+	"datos.h"
+
+1539913387 source:d:\documentos\juana\instafilm\bienvenida.cpp
+	"bienvenida.h"
+	"consola.h"
+	"ingreso.h"
+	"registro.h"
+
+1539912987 d:\documentos\juana\instafilm\bienvenida.h
+
+1540616494 d:\documentos\juana\instafilm\ingreso.h
+	"datos.h"
+
+1539913146 d:\documentos\juana\instafilm\registro.h
+
+1539994025 source:d:\documentos\juana\instafilm\consola.cpp
+	<string>
+	<consola.h>
+
+1540702418 source:d:\documentos\juana\instafilm\datos.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"datos.h"
+
+1540703232 source:d:\documentos\juana\instafilm\ingreso.cpp
+	<iostream>
+	"ingreso.h"
+	"consola.h"
+	"amigos.h"
+	"peliculas.h"
+	"triqui.h"
+
+1541044606 d:\documentos\juana\instafilm\triqui.h
+	"datos.h"
+
+1539916862 source:d:\documentos\juana\instafilm\main.cpp
+	<iostream>
+	"bienvenida.h"
+
+1541043411 source:d:\documentos\juana\instafilm\peliculas.cpp
+	<iostream>
+	"peliculas.h"
+	"consola.h"
+
+1540003844 source:d:\documentos\juana\instafilm\registro.cpp
+	<iostream>
+	"registro.h"
+	"consola.h"
+	"amigos.h"
+	"datos.h"
+
+1540916259 source:d:\documentos\juana\instafilm\triqui.cpp
+	<iostream>
+	<time.h>
+	"triqui.h"
+	"consola.h"
+	"amigos.h"
+
+1540267402 d:\documentos\juana\instafilm\\consola.h
+	<iostream>
+

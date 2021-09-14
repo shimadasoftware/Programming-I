@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="InstaFilm" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/InstaFilm" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="D:/Documentos/Juana/InstaFilm/" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/InstaFilm" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="/home/jf/Documentos/workspace/InstaFilm/" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="amigos.cpp" />
+		<Unit filename="amigos.h" />
+		<Unit filename="bienvenida.cpp" />
+		<Unit filename="bienvenida.h" />
+		<Unit filename="consola.cpp" />
+		<Unit filename="consola.h" />
+		<Unit filename="datos.cpp" />
+		<Unit filename="datos.h" />
+		<Unit filename="ingreso.cpp" />
+		<Unit filename="ingreso.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="peliculas.cpp" />
+		<Unit filename="peliculas.h" />
+		<Unit filename="registro.cpp" />
+		<Unit filename="registro.h" />
+		<Unit filename="triqui.cpp" />
+		<Unit filename="triqui.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
